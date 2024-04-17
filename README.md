@@ -2,15 +2,7 @@
 My plan for my future family.
 
 
-Remember to leave room for personality and their own thoughts. Remember to take breaks and limit demanding activities. Plan everything with room for much else.
-
-Remember to teach about the autonomic influence system for psychological stability. Remember to also teach about the possibilities, the variations, the coincidences and the experiments.
-
-Prepare teaching material for own and private teaching. Learning material.
-
-
-
-How to be.
+# How to be.
 + Give sympathetic and empathetic support for security and development.
 + Be understanding and comprehensible.
 + Be ethical and logical.
@@ -23,33 +15,30 @@ How to be.
 + Wait with diseases, if there are no signs.
 + Respect imagination and ideas, while making the differences between the good and bad consequences clear.
 + Focus on development and own learning, fewer disservices.
++ Remember to leave room for personality and their own thoughts.
++ Remember to take breaks and limit demanding activities.
++ Plan everything with room for much else.
++ Remember to teach about the autonomic influence system for psychological stability.
++ Remember to also teach about the possibilities, the variations, the coincidences and the experiments.
 
-
-
-General.
-
+# General.
 + Consider the psychological and physical including the connections.
 + Document the development and also follow the schedule.
 + Pay attention to how the body is shaped after activity, especially the fingers.
 + Beware of exposure to too much of anything to develop allergies.
++ Prepare teaching material for own and private teaching.
++ Prepare learning material.
 
-
-
-Economy.
-
+# Economy.
 + Save 100000 DKK for the first child.
 + Make estimations.
 + Calculate the expected.
 + Plan: Job, time and finances.
 
-
-
-Time.
+# Time.
 + Plan time at home and outside with your partner.
 
-
-
-Wife.
+# Wife.
 1. Neuropedagogy
 2. Neuropsychology
 3. Psychology
@@ -63,7 +52,7 @@ Wife.
 
 
 
-Children. Baby (0-12 months). Child (1-13 years). Teenager (13-18 years). Adult (18-18+ years).
+# Children. Baby (0-12 months). Child (1-13 years). Teenager (13-18 years). Adult (18-18+ years).
 
 1. Health:
 
@@ -97,7 +86,7 @@ s Soon as there is suspicion, get a psychologist appointment from a doctor.
 
 
 
-Child learning journey. May be in another order:
+# Child learning journey. May be in another order:
 
 + Write down what can happen, expectations and how it can happen and solutions for everything mentioned.
 + Design and plan the dynamic and stable developments.
